@@ -1,5 +1,5 @@
 # Maven-Toys-Challenge-Dashboard
-**Project Type** **:** Data Analytics Portfolio Project
+**Project Type** **:** Data Analytics Portfolio Project.
 
 Using Microsoft Excel to analyze sales performance, profitability, and historical trends to support data-driven retail expansion decisions.
 ## Introduction
