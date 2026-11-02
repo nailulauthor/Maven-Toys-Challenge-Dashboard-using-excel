@@ -1,5 +1,6 @@
 # Maven-Toys-Challenge-Dashboard
 **Project Type** **:** Data Analytics Portfolio Project
+
 Using Microsoft Excel to analyze sales performance, profitability, and historical trends to support data-driven retail expansion decisions.
 ## Introduction
 Maven Toys plans to expand its business by opening new stores. To support this decision, an analysis of sales performance, profitability, historical trends, and the contribution of each location to sales revenue across different cities is required to identify cities and specific locations with strong potential to support business expansion.
